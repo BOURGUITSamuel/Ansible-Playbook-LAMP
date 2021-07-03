@@ -1,0 +1,9 @@
+---
+mysql_root_password: mysql_root_password
+app_user: your_app_user
+group: your user group
+http_host: your_domain
+http_conf: your_domain.conf
+http_port: 80
+https_port: 443
+disable_default: true
